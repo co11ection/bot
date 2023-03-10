@@ -1,0 +1,7 @@
+psycopg2-binary
+python-decouple
+gunicorn
+celery
+pyTelegramBotAPI
+google-api-python-client
+google_auth_oauthlib
